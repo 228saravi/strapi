@@ -27,6 +27,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/devextreme/dist/css/dx.common.css",
+              "src/themes/generated/theme.additional.css",
+              "src/themes/generated/theme.base.css",
               "src/styles.scss"
             ],
             "scripts": []
